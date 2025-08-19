@@ -69,6 +69,7 @@ public class Vehicles {
         Car c1 = new Car();
         c1.drive();
         c1.stop();
+
         System.out.println("--------------");
         HoverCraft h1 = new HoverCraft();
         h1.launch();
